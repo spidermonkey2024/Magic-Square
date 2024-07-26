@@ -10,3 +10,5 @@ A magic number for the matrix is computed by
 adding all elements of 1D array and dividing by four.
 If sum of each row, each column and each diagonal
 is equal to magic number, then 2D array is a magic square.
+
+All files are C++ code. This repository is part of a numerical programing series.
